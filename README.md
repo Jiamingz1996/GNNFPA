@@ -1,4 +1,4 @@
-# GNNFPA
+# GNN-FPA and GNN-SFPA
 ### Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs
 
 This repo contains the implementation of the model proposed in ["Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs"](http://yangliang.github.io/pdf/mm23-zhuo.pdf).
@@ -28,7 +28,7 @@ We have the following dependencies:
 
 **Dataset Source**
 
-> All datasets are downloaded from package torch_geometric and saved as series of .pt file without any preprocess procedure. You can download the zipped dataset from release page of this repo and extract them to "./datasets" folder.
+> All datasets are downloaded from package torch_geometric and saved as series of .pt file without any preprocess procedure. You can download the zipped dataset from release page of [torch_geometric](https://github.com/GitEventhandler/pytorch_geometric/tree/master/torch_geometric) and extract them to "./datasets" folder.
 
 **Citation**
 
