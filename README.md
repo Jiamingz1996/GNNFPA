@@ -10,22 +10,6 @@ To run the project you will need to install the required packages:
 pip install -r requirements.txt 
 ```
 
-**Dependencies**
-
-We have the following dependencies:
-
->torch 1.10.0
->
->torchVision 0.11.1
->
->torch-cluster 1.6.0 
->
->torch-geometric 2.0.2
->
->torch-scatter 2.0.9
->
->torch-sparse 0.6.12 
-
 **Dataset Source**
 
 > All datasets are downloaded from package torch_geometric and saved as series of .pt file without any preprocess procedure. You can download the zipped dataset from release page of [torch_geometric](https://github.com/GitEventhandler/pytorch_geometric/tree/master/torch_geometric) and extract them to "./datasets" folder.
