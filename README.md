@@ -2,6 +2,7 @@
 ### Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs
 
 This repo contains the implementation of the model proposed in ["Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs"](http://yangliang.github.io/pdf/mm23-zhuo.pdf).
+
 **Installation**
 To run the project you will need to install the required packages:
 
